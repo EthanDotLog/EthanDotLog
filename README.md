@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS, JavaScript 
 - 💞️ I’m looking to collaborate on anything 
 - 📫 reach me at my blog or on twitter
-- - ethandotlog.blogspot.com/?m=1
+- - https://ethandotlog.blogspot.com/
 - - www.twitter.com/EthanDotLog
 
 <!---
