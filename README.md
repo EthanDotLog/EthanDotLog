@@ -54,6 +54,8 @@ I am a just a guy coding on the internet :globe_with_meridians:, trying to be a 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanDotLog&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://app.daily.dev/ethandotlog"><img src="https://api.daily.dev/devcards/v2/lqkFGHBkJFiKB5jZGhi7d.png?type=default&r=lu1" width="356" alt="EthanDotLog's Dev Card"/></a>
+
 <!---
 EthanDotLog/EthanDotLog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
