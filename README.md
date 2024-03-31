@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://dly.to/nxSZSjugdUl">
-    <img src="https://img.shields.io/badge/dailydotdev-purple?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="DailyDev"/>
+    <img src="https://img.shields.io/badge/DailyDev-purple?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="DailyDev"/>
   </a>
   <a href="https://www.twitter.com/ethandotlog">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/x Badge"/>
