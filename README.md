@@ -68,6 +68,8 @@ I am a just a guy coding on the internet :globe_with_meridians:, trying to be a 
 <div align="center">
   <h1>🔥My Stats🔥</h1>
   <br>
+  <a href="https://www.codewars.com/users/EthanDotLog"><img src="https://www.codewars.com/users/EthanDotLog/badges/large"></a>
+  <br>
   <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=EthanDotLog&theme=dark&background=000000"></a>
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanDotLog&layout=compact&theme=vision-friendly-dark"></a>
