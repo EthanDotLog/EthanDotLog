@@ -24,7 +24,9 @@
 ---
 
 ### :man_technologist: About Me :
+
 I am a just a guy coding on the internet :globe_with_meridians:, trying to be a Full Stack Developer <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BpNjl1ZWE1cHpjeTRqdmF3OTljZDdodHZ4OWE5bzV4dnZ2ZDhvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cLxGtujriMD1kPzwt1/giphy.gif" width="30"> from the US :us:
+
 
 - :telescope: I’m currently developing my skills and working freelance
 
@@ -32,37 +34,45 @@ I am a just a guy coding on the internet :globe_with_meridians:, trying to be a 
 
 - :zap: In my free time, I play some games and tinker with linux
 
+<br>
+
 ---
 
 <div  align="center">
-<img width="60%" src="https://res.cloudinary.com/daily-now/image/upload/s--zfP5Psiq--/f_auto/v1712107910/posts/QssrvIBsw">
+<img width="45%" src="https://res.cloudinary.com/daily-now/image/upload/s--zfP5Psiq--/f_auto/v1712107910/posts/QssrvIBsw">
+  
+<h1>🫡 Join The Squad 🫡</h1>
+<br>
+<a href="https://dly.to/ThQgKBvzo9z"><img src="https://img.shields.io/badge/Passive&nbsp;Intrigue-dimgrey?style=for-the-badge&logo=dailydotdev&logoColor=orchid"/></a>
+<br>
+<a href="https://app.daily.dev/ethandotlog"><img src="https://api.daily.dev/devcards/v2/lqkFGHBkJFiKB5jZGhi7d.png?type=default&r=lu1" width="356" alt="EthanDotLog's Dev Card"/></a>
 </div>
 
-### 🫡 Join The Squad 🫡 
-
-[![dailydev](https://img.shields.io/badge/Passive&nbsp;Intrigue-dimgrey?style=for-the-badge&logo=dailydotdev&logoColor=orchid)](https://dly.to/ThQgKBvzo9z)
-
-<a href="https://app.daily.dev/ethandotlog"><img src="https://api.daily.dev/devcards/v2/lqkFGHBkJFiKB5jZGhi7d.png?type=default&r=lu1" width="356" alt="EthanDotLog's Dev Card"/></a>
-
 ---
-
-### :hammer_and_wrench: Languages and Tools :
-<div align:"center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+<div align="center">
+  <h1> 🛠️ Languages and Tools 🛠️</h1>
+</div>
+<br>
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+<br>
 
 ---
 
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EthanDotLog&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanDotLog&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <h1>🔥My Stats🔥</h1>
+  <br>
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=EthanDotLog&theme=dark&background=000000"></a>
+  <br>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanDotLog&layout=compact&theme=vision-friendly-dark"></a>
+</div>
+<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=EthanDotLog&style=flat-square&color=blue" alt="" />
