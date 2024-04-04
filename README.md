@@ -45,7 +45,7 @@ I am a just a guy coding on the internet :globe_with_meridians:, trying to be a 
 <br>
 <a href="https://dly.to/ThQgKBvzo9z"><img src="https://img.shields.io/badge/Passive&nbsp;Intrigue-dimgrey?style=for-the-badge&logo=dailydotdev&logoColor=orchid"/></a>
 <br>
-<a href="https://app.daily.dev/ethandotlog"><img src="https://api.daily.dev/devcards/v2/lqkFGHBkJFiKB5jZGhi7d.png?type=default&r=lu1" width="356" alt="EthanDotLog's Dev Card"/></a>
+<a href="https://app.daily.dev/ethandotlog"><img src="https://api.daily.dev/devcards/v2/lqkFGHBkJFiKB5jZGhi7d.png?type=wide&r=7t9" width="652" alt="EthanDotLog's Dev Card"/></a>
 </div>
 
 ---
