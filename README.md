@@ -1,6 +1,12 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNiODB0bjVscHpjcGlwY2kzb2l2MTVjOHIzZnRpejFtY2lvNW1iMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif">
-</div>
+
+
+<div align="center">
+<img width="75%" src="https://github.com/EthanDotLog/EthanDotLog/assets/148747739/aeccbf25-18c2-4639-8964-b6af3be8ad54">
+  <details align="center">
+  <summary>:~$ ethanDotLog.readMe.forEach((element) => readme.innerhtml += element);</summary>
+  <div id="header" align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNiODB0bjVscHpjcGlwY2kzb2l2MTVjOHIzZnRpejFtY2lvNW1iMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif">
+  </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ethandotlog/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -77,8 +83,20 @@ I am a just a guy coding on the internet :globe_with_meridians:, trying to be a 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=EthanDotLog&style=flat-square&color=blue" alt="" />
+  <img src="https://komarev.com/ghpvc/?username=EthanDotLog&style=for-the-badge&color=brightgreen" alt="" />
 </div>
+
+<img src="https://readme-jokes.vercel.app/api?theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
+
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
+</details>
+<img align="center" width="75%" src="https://github.com/EthanDotLog/EthanDotLog/assets/148747739/c72c7602-3b37-40a6-b56d-648ceb9a8e17">
+</div>
+
+
 <!---
 EthanDotLog/EthanDotLog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
