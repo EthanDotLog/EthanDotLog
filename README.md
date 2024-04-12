@@ -8,6 +8,9 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNiODB0bjVscHpjcGlwY2kzb2l2MTVjOHIzZnRpejFtY2lvNW1iMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif">
   </div>
 <div id="badges" align="center">
+  <a href="ttps://ethandotlog.hashnode.dev/">
+    <img src="https://img.shields.io/badge/hashnode-limegreen?style=for-the-badge&logo=HashNode&logoColor=white" alt="hashnode Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/ethandotlog/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
